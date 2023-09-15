@@ -6,6 +6,7 @@ body, h1, h2, p, ul, li, a {
 
 body {
     background-color: #09092c; /*  Dark blue background */
+    margin-left: 5px;
 }
 
 h1 {
@@ -42,6 +43,11 @@ a:hover {
 
 main ul  {
     margin-bottom: 20px;
+}
+
+form {
+    color:#7f8c8d; /* Grayish blue */
+    font-size: 16px; /* 16px is the default font size */
 }
 
 input {
