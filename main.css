@@ -9,9 +9,14 @@ body {
 }
 
 h1 {
-    color:#948b0f; /* Yellow-Orange text color */
+    color: darkorange; /* Yellow-Orange text color */
     font-size: 2.5em; /* 3x the default font size */
     margin-bottom: 1em; /* Adding some space below the heading */
+}
+
+h2 {
+    font-size:1.5em; /* 1.5x the default font size */
+    color: #5a970a; /* bright yellow-green text color */
 }
 
 
