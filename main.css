@@ -43,3 +43,18 @@ a:hover {
 main ul  {
     margin-bottom: 20px;
 }
+
+input {
+    color: #0dbe0d; /* Bright green text color */
+    background-color: #073a35; /* Dark Teal background color */
+}
+
+select {
+    color: #0dbe0d; /* Bright green text color */
+    background-color: #073a35; /* Dark Teal background color */
+}
+
+textarea {
+    color: #0dbe0d; /* Bright green text color */
+    background-color: #073a35; /* Dark Teal background color */
+}
