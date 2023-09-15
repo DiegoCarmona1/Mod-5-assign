@@ -51,16 +51,16 @@ form {
 }
 
 input {
-    color: #0dbe0d; /* Bright green text color */
-    background-color: #073a35; /* Dark Teal background color */
+    color: #0749d6; /* Blue text color */
+    background-color: #2bb3dd; /* Light Blue background color */
 }
 
 select {
-    color: #0dbe0d; /* Bright green text color */
-    background-color: #073a35; /* Dark Teal background color */
+    color: #0749d6; /* Blue text color */
+    background-color: #2bb3dd; /* Light Blue background color */
 }
 
 textarea {
-    color: #0dbe0d; /* Bright green text color */
-    background-color: #073a35; /* Dark Teal background color */
+    color: #0749d6; /* Blue text color */
+    background-color: #2bb3dd; /* Light Blue background color */
 }
