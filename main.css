@@ -39,3 +39,7 @@ a:hover {
     background-color: #3498db; /* Bright blue background color */
     color: white; /* white text color */
 }
+
+main ul  {
+    margin-bottom: 20px;
+}
