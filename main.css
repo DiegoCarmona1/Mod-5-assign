@@ -10,9 +10,11 @@ body {
 
 h1 {
     color:#948b0f; /* Yellow-Orange text color */
-    font-size: 3em; /* 3x the default font size */
+    font-size: 2.5em; /* 3x the default font size */
     margin-bottom: 1em; /* Adding some space below the heading */
 }
+
+
 
 a {
     display: inline-block; /* making the link a block element */
