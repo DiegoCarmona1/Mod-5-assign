@@ -5,7 +5,13 @@ body, h1, h2, p, ul, li, a {
 }
 
 body {
-    background-color: #012626;
+    background-color: #09092c; /*  Dark blue background */
+}
+
+h1 {
+    color:#948b0f; /* Yellow-Orange text color */
+    font-size: 2em; /* 2x the default font size */
+    margin-bottom: 1em; /* Adding some space below the heading */
 }
 
 a {
